@@ -20,7 +20,7 @@ include "propiedades.php";
     </div>
     <div class="form-group">
       <label for="precio">Precio maximo:</label>
-      <input type="text" id="precio" class="form-control" placeholder="Ingrese el precio maximo">
+      <input type="text" id="precio" class="form-control" placeholder="Ingrese su precio maximo">
     </div>
     <button type="submit" id="btnBuscar" class="btn btn-primary">Buscar</button>
   </form>
